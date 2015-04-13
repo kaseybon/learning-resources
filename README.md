@@ -32,6 +32,12 @@ Blogs
 * [Developer Drive](http://www.developerdrive.com/)
 * [Creative Bloq](http://www.creativebloq.com/)
 
+Podcasts
+--------
+
+* [Shop Talk Shop](http://shoptalkshow.com/)
+* [Path to Performance](http://pathtoperf.com/)
+
 People
 ------
 
