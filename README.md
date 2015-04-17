@@ -62,3 +62,5 @@ People
 * Eric Meyer [@meyerweb](https://twitter.com/meyerweb)
 * Pixelass [@GregorAdams](https://twitter.com/GregorAdams/)
 * Tim Kadlec [@tkadlec](https://twitter.com/tkadlec/)
+
+*This list is a work in progress and will always be a work in progress*
