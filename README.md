@@ -21,16 +21,6 @@ References
 * [GitHub](https://github.com/)
 * [Stack Overflow](http://stackoverflow.com/)
 
-eBooks
-------
-
-* [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/), Why
-* [Getting Real](http://gettingreal.37signals.com/), 37 Signals
-* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/), Zed A. Shaw
-* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/), Zed A. Shaw
-* [SMACSS](https://smacss.com/), Jonathan Snook
-* [The Nature of Code](http://natureofcode.com/book/), Daniel Shiffman
-
 Blogs
 -----
 
@@ -49,6 +39,16 @@ Podcasts
 * [Path to Performance](http://pathtoperf.com/)
 * [99% Invisible](http://99percentinvisible.org/)
 * [She Does](http://www.shedoespodcast.com/)
+
+eBooks
+------
+
+* [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/), Why
+* [Getting Real](http://gettingreal.37signals.com/), 37 Signals
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/), Zed A. Shaw
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/), Zed A. Shaw
+* [SMACSS](https://smacss.com/), Jonathan Snook
+* [The Nature of Code](http://natureofcode.com/book/), Daniel Shiffman
 
 People
 ------
