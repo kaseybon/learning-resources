@@ -31,6 +31,7 @@ Blogs
 * [Codrops](http://tympanus.net/codrops/)
 * [Developer Drive](http://www.developerdrive.com/)
 * [Creative Bloq](http://www.creativebloq.com/)
+* [Code as Craft](https://codeascraft.com/)
 
 Podcasts
 --------
