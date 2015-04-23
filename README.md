@@ -38,6 +38,18 @@ Podcasts
 
 * [Shop Talk Shop](http://shoptalkshow.com/)
 * [Path to Performance](http://pathtoperf.com/)
+* [99% Invisible](http://99percentinvisible.org/)
+* [She Does](http://www.shedoespodcast.com/)
+
+eBooks
+------
+
+* [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/), Why
+* [Getting Real](http://gettingreal.37signals.com/), 37 Signals
+* [Learn the Command Line the Hard Way](http://cli.learncodethehardway.org/book/), Zed A. Shaw
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/), Zed A. Shaw
+* [SMACSS](https://smacss.com/), Jonathan Snook
+* [The Nature of Code](http://natureofcode.com/book/), Daniel Shiffman
 
 People
 ------
@@ -48,3 +60,8 @@ People
 * Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan/)
 * Dave Rupert [@davatron5000](https://twitter.com/davatron5000/)
 * Paul Irish [@paul_irish](https://twitter.com/paul_irish/)
+* Eric Meyer [@meyerweb](https://twitter.com/meyerweb)
+* Pixelass [@GregorAdams](https://twitter.com/GregorAdams/)
+* Tim Kadlec [@tkadlec](https://twitter.com/tkadlec/)
+
+*This list is a work in progress and will always be a work in progress*
