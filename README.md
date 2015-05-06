@@ -64,4 +64,4 @@ People
 * Pixelass [@GregorAdams](https://twitter.com/GregorAdams/)
 * Tim Kadlec [@tkadlec](https://twitter.com/tkadlec/)
 
-*This list is a work in progress and will always be a work in progress*
+> I also have a list of [Development Resources](https://github.com/kaseybon/learning-resources).
