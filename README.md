@@ -9,10 +9,10 @@ Online Courses
 * [Codecademy](http://www.codecademy.com/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Hack Design](https://hackdesign.org/)
-* [JavaScript.com](https://www.javascript.com/)
-* [Web Design for Kids](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823)
-* [Try Ruby](http://tryruby.org/)
-* [Code.org](https://code.org/)
+* [JavaScript.com](https://www.javascript.com/) *kid friendly*
+* [Web Design for Kids](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) *kid friendly*
+* [Try Ruby](http://tryruby.org/) *kid friendly*
+* [Code.org](https://code.org/) *kid friendly*
 
 References
 ----------
