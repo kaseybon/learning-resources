@@ -66,4 +66,4 @@ People
 * Pixelass [@GregorAdams](https://twitter.com/GregorAdams/)
 * Tim Kadlec [@tkadlec](https://twitter.com/tkadlec/)
 
-> I also have a list of [Development Resources](https://github.com/kaseybon/learning-resources).
+> I also have a list of [Development Resources](https://github.com/kaseybon/development-resources).
