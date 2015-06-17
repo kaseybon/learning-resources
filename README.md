@@ -9,6 +9,7 @@ Online Courses
 * [Codecademy](http://www.codecademy.com/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Hack Design](https://hackdesign.org/)
+* [JavaScript.com](https://www.javascript.com/)
 
 References
 ----------
@@ -50,6 +51,7 @@ eBooks
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/), Zed A. Shaw
 * [SMACSS](https://smacss.com/), Jonathan Snook
 * [The Nature of Code](http://natureofcode.com/book/), Daniel Shiffman
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson
 
 People
 ------
