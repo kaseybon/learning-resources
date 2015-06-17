@@ -40,7 +40,7 @@ Blogs
 Podcasts
 --------
 
-* [Shop Talk Shop](http://shoptalkshow.com/)
+* [Shop Talk Show](http://shoptalkshow.com/)
 * [Path to Performance](http://pathtoperf.com/)
 * [99% Invisible](http://99percentinvisible.org/)
 * [She Does](http://www.shedoespodcast.com/)
