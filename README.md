@@ -14,6 +14,7 @@ Online Courses
 * [Try Ruby](http://tryruby.org/) *kid friendly*
 * [Code.org](https://code.org/) *kid friendly*
 * [NodeSchool](http://nodeschool.io/)
+* [JS the Right Way](http://jstherightway.org/)
 
 References
 ----------
@@ -60,5 +61,6 @@ eBooks
 * [The Nature of Code](http://natureofcode.com/book/), Daniel Shiffman
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/), Joni Trythall
+* [Eloquent JavaScript](http://eloquentjavascript.net/), Marijn Haverbeke
 
 > I also have a list of [Development Resources](https://github.com/kaseybon/development-resources).
