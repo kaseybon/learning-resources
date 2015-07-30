@@ -13,6 +13,7 @@ Online Courses
 * [Web Design for Kids](http://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) *kid friendly*
 * [Try Ruby](http://tryruby.org/) *kid friendly*
 * [Code.org](https://code.org/) *kid friendly*
+* [NodeSchool](http://nodeschool.io/)
 
 References
 ----------
@@ -24,6 +25,7 @@ References
 * [CodePen](http://codepen.io/)
 * [GitHub](https://github.com/)
 * [Stack Overflow](http://stackoverflow.com/)
+* [Try Jasmine](http://tryjasmine.com/)
 
 Blogs
 -----
@@ -58,18 +60,5 @@ eBooks
 * [The Nature of Code](http://natureofcode.com/book/), Daniel Shiffman
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS), Kyle Simpson
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/), Joni Trythall
-
-People
-------
-
-* Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier/)
-* Brad Frost [@brad_frost](https://twitter.com/brad_frost/)
-* Lea Verou [@LeaVerou](https://twitter.com/LeaVerou/)
-* Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan/)
-* Dave Rupert [@davatron5000](https://twitter.com/davatron5000/)
-* Paul Irish [@paul_irish](https://twitter.com/paul_irish/)
-* Eric Meyer [@meyerweb](https://twitter.com/meyerweb)
-* Pixelass [@GregorAdams](https://twitter.com/GregorAdams/)
-* Tim Kadlec [@tkadlec](https://twitter.com/tkadlec/)
 
 > I also have a list of [Development Resources](https://github.com/kaseybon/development-resources).
